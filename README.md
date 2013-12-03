@@ -1,7 +1,7 @@
 Crestron-PlexHT 
 ===============
 
-A Crestron SIMPL Module for Plex Home Theater
+A 1-Way Crestron SIMPL Module for Plex Home Theater
 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q3HXXBC6ZBENJ)
 
