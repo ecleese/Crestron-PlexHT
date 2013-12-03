@@ -13,11 +13,11 @@ This module requires one Crestron TCP/IP Client connection. Set the IP address o
 Change Log
 ----------
 v1.3
-Rewrote module to utilize JSON protocol for upcoming Plex/Home Theater application. Several functions have been removed from this version but may be added back in a later version.
+* Rewrote module to utilize JSON protocol for upcoming Plex/Home Theater application. Several functions have been removed from this version but may be added back in a later version.
 
 
 v1.2
-Added Commands
+* Added Commands
  + Jump To: Home
  + Jump To: Now Playing
  + Jump To: Now Playing Queue
@@ -30,10 +30,10 @@ Added Commands
  + Now Playing: Audio Track
 
 v1.1 
-Bug Fixes
+* Bug Fixes
  + Cursor Up/Down/Left/Right accidental double issue because of osc timing. (Press and Hold now used along with osc) 
  + Page Up/Down accidental double issue because of osc timing. (Press and Hold now used along with osc) 
 
 v1.0
- + Inital Release
+* Inital Release
 
