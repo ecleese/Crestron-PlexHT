@@ -1,5 +1,5 @@
-Plex/Home Theater Crestron Module
-=================================
+Crestron Module for Plex Home Theater
+=====================================
 
 Description
 -----------
