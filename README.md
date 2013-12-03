@@ -1,6 +1,8 @@
 Crestron Module for Plex Home Theater
 =====================================
 
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q3HXXBC6ZBENJ)
+
 Description
 -----------
 This module allows any ethernet-equipped Crestron 2-series processor to control a Plex Home Theater client. Before implementing this module you should have Plex Media Server and Plex Home Theater installed and running. Make sure port 3005 is open and not blocked by any firewall on the IP Address where Plex Home Theater resides. 
@@ -8,8 +10,8 @@ This module allows any ethernet-equipped Crestron 2-series processor to control 
 This module requires one Crestron TCP/IP Client connection. Set the IP address of this client to the IP address of your Plex Home Theater instance. The default port is 3005
 
 
-Version History
-----------------
+Change Log
+----------
 v1.3
 Rewrote module to utilize JSON protocol for upcoming Plex/Home Theater application. Several functions have been removed from this version but may be added back in a later version.
 
